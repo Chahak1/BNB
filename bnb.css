@@ -1,0 +1,220 @@
+.container {
+    margin: -10px;
+}
+
+#slide1 {
+    background-image: url(bg1.jpeg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+@font-face {
+    font-family: jaldi;
+    src: url(jaldi-regular-webfont.woff);
+}
+#logo {
+    height: 120px;
+    float: left;
+}
+
+.slides {
+    width: 100%;
+    height: 100vh;
+}
+
+#navba {
+    float: right;
+    color: #FFFFFF;
+    margin-top: 2.3%;
+    margin-right: 25px;
+    font-size: 1.7em;
+    font-family: jaldi;
+}
+
+#a {
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+#bub {
+    position: absolute;
+    width: 683.52px;
+    height: 260px;
+    left: 132px;
+    top: 250.4px;
+    color: transparent;
+}
+
+#fip {
+    position: absolute;
+    width: 1140px;
+    height: 101px;
+    left: 132px;
+    top: 460.83px;
+    font-family: 'Proxima Nova', sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 37px;
+    line-height: 101px;
+    background: linear-gradient(270.11deg, #0027B2 43.96%, #FFFFFF 102.96%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    text-shadow: 20px 10px 4px rgba(0, 0, 0, 0.25);
+    transform: rotate(-0.37deg);
+}
+
+#slide2{
+    background-image: url(bg.png);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+.contain{
+    position: relative;
+    text-align: center;
+}
+#aboutus{
+    width: 86%;
+    margin-top: 5%;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+#aut{
+    font-family: jaldi;
+    position: absolute;
+    color: #FFFFFF;
+    margin-left: 67%;
+    top: 10%;
+    font-size: 4em;
+}
+#aup{
+    text-align: left;
+    position: absolute;
+    font-family: jaldi;
+    top: 30%;
+    left: 16%;
+    font-size: 1.8em;
+    color: #FFFFFF;
+    opacity: 0.4;
+    line-height: 58px;
+}
+#slide3{
+    background-image: url(bg.png);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+.events1{
+    width: 86%;
+    margin-top: 12%;
+    margin-left: 7%;
+    margin-right: 7%;
+    height: 400px;
+}
+#cashflowp{
+    position: absolute;
+    margin-top: 15%;
+    height: 330px;
+}
+#eventsd{
+    font-family: jaldi;
+    position: absolute;
+    color: #FFFFFF;
+    margin-left: 8%;
+    top: 2%;
+    font-size: 4em;
+}
+#cashflow{
+    margin-top: -50%;
+    margin-left: 65%;
+    opacity: 0.9;
+    height: 300px;
+    margin-bottom: 5%;
+    width: 320px;
+}
+.zoom:hover{
+    transform: scale(1.05);
+    transition: 0.15s cubic-bezier(0.6, 0.03, 0.28, 0.98);
+}
+#slide4{
+    background-image: url(bg.png);
+}
+#slide5{
+    background-image: url(bg.png);
+}
+#slide6{
+    background-image: url(bg.png);
+}
+.events2{
+    width: 86%;
+    margin-top: 1%;
+    margin-left: 7%;
+    margin-right: 7%;
+    height: 340px;
+}
+#eve{
+    text-align: left;
+    position: absolute;
+    font-family: jaldi;
+    top: 5px;
+    left: 50%;
+    font-size: 1.7em;
+    color: #FFFFFF;
+    opacity: 0.4;
+    line-height: 40px;
+    float: right;
+}
+#fintalk{
+    position: absolute;
+    margin-top: -45%;
+    margin-left: 13%;
+    opacity: 0.9;
+    height: 300px;
+    width: 320px;
+}
+#hackstory{
+    position: absolute;
+    margin-top: -21.5%;
+    margin-left: 63%;
+    opacity: 0.9;
+    height: 300px;
+    width: 320px;
+}
+#eveleft{
+    position: absolute;
+    font-family: jaldi;
+    font-size: 1.7em;
+    color: #FFFFFF;
+    opacity: 0.4;
+    line-height: 40px;
+    top: 58%;
+    left: 13%;
+    text-align: left;
+}
+#traderselite{
+    position: absolute;
+    margin-top: -21.5%;
+    margin-left: -85%;
+    opacity: 0.9;
+    height: 300px;
+    width: 320px;
+}
+#casinova{
+    position: absolute;
+    top: 55%;
+    margin-left: -38%;
+    opacity: 0.9;
+    height: 300px;
+    width: 320px;
+}
+#zerodha{
+    position: absolute;
+    margin-top: 2%;
+    margin-left: -85%;
+    opacity: 0.9;
+    height: 300px;
+    width: 320px;
+}
